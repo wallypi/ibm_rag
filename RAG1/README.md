@@ -1,7 +1,3 @@
-# ibm_rag
-IBM RAG
-
-
 # Cloud Pak for Integration - Warsztaty praktyczne
 
 ### Środowisko Laboratoryjne
@@ -34,6 +30,4 @@ IBM MQ Explorer – [Instrukcja instalacji](https://www.ibm.com/docs/en/ibm-mq/9
 
 ### Kontakt
 
-Mikołaj Jaworski
-
-E-mail: mikolaj.jaworski2@ibm.com
+Waldemar
